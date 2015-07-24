@@ -1,0 +1,10 @@
+td {
+    border: 1px solid black;
+    width: 15px;
+    height: 15px;
+    background-color: aliceblue;
+}
+
+table {
+    margin: 0 auto;
+}
