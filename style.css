@@ -1,10 +1,22 @@
-td {
-    border: 1px solid black;
-    width: 15px;
-    height: 15px;
-    background-color: aliceblue;
+.sapper-area {
+    margin: 0 auto;
 }
 
-table {
-    margin: 0 auto;
+.sapper-cell {
+    border: 1px solid #000;
+    width: 18px;
+    height: 18px;
+    background-color: #f0f8ff;
+    text-align: center;
+    font-size: 12pt;
+    font-weight: bolder;
+}
+
+.open-cell {
+    background-color: #fff;
+    color: #006400;
+}
+
+.bomb-cell {
+    background: #c1c1c1 url(bomb.jpg) 2px 2px no-repeat;
 }
